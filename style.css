@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(106, 26, 26);
+}
+label{
+    color: aquamarine;
+}
+#texto{
+    color: green;
+}
+.escrita{
+    color: blueviolet;
+}
+#texto{
+    color: blue;
+}
